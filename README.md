@@ -17,7 +17,7 @@ used to guide the decision-making process of management on how to make their ass
 
 ## Report  
 
-The report can be viewed under the [Vulnerability Assessment Report (eCommerce Company)][link2]
+The report can be viewed under the [Vulnerability Assessment Report (eCommerce Company)][link2] file.  
 
 [link1]: https://www.coursera.org/professional-certificates/google-cybersecurity
-[link2]: 
+[link2]: https://github.com/ItaloHugoMDS/Assessing_Vulnerabilities_Report/blob/main/Vulnerability%20Assessment%20Report%20(eCommerce%20Company).pdf
